@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <ul>
+      <li>
+        <div>
+          <span
+            class="task"
+          >
+            Exercise 
+          </span>
+          <button
+            class="removeTask"
+          >
+            X
+          </button>
+        </div>
+      </li>
+      <li>
+        <div>
+          <span
+            class="task"
+          >
+            Walk my dog 
+          </span>
+          <button
+            class="removeTask"
+          >
+            X
+          </button>
+        </div>
+      </li>
+      <li>
+        <div>
+          <span
+            class="task"
+          >
+            Learn programming with SBU 
+          </span>
+          <button
+            class="removeTask"
+          >
+            X
+          </button>
+        </div>
+      </li>
+    </ul>
+    <form>
+      <label
+        for="task"
+      >
+        Add new to-do
+      </label>
+      <input
+        id="task"
+        name="text"
+        placeholder="Task"
+        type="text"
+        value=""
+      />
+      <button
+        class="addTask"
+      >
+        Add
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;

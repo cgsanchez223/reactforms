@@ -1,0 +1,15 @@
+.task{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.removeTask{
+    margin: 5px;
+    background-color: skyblue;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.removeTask:hover {
+    background-color: red;
+}
